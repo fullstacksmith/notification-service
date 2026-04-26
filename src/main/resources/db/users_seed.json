@@ -1,0 +1,8444 @@
+[
+  {
+    "id": 1,
+    "name": "Bob Hamilton",
+    "email": "bob.hamilton@icloud.com",
+    "phoneNumber": "+1 713 162-3685",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Vanessa Peterson",
+    "email": "vanessa.peterson@gmail.com",
+    "phoneNumber": "+34 924 107-1720",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "David Collins",
+    "email": "david.collins@mail.com",
+    "phoneNumber": "+49 341 177-0945",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Daniel Miller",
+    "email": "daniel.miller@hotmail.com",
+    "phoneNumber": "+1 212 048-3721",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lucia Murphy",
+    "email": "lucia.murphy@hotmail.com",
+    "phoneNumber": "+51 44 463-5005",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Benjamin Gomez",
+    "email": "benjamin.gomez@gmail.com",
+    "phoneNumber": "+51 44 076-3248",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sebastian Roberts",
+    "email": "sebastian.roberts@outlook.com",
+    "phoneNumber": "+44 161 221-0569",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ivan Reynolds",
+    "email": "ivan.reynolds@mail.com",
+    "phoneNumber": "+1 310 163-5493",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Benjamin Campbell",
+    "email": "benjamin.campbell@gmail.com",
+    "phoneNumber": "+49 351 816-0624",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Sofia Jenkins",
+    "email": "sofia.jenkins@hotmail.com",
+    "phoneNumber": "+54 387 811-2606",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Henry Howard",
+    "email": "henry.howard@proton.me",
+    "phoneNumber": "+56 41 137-9543",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Chloe James",
+    "email": "chloe.james@hotmail.com",
+    "phoneNumber": "+44 151 953-5632",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Nina Owens",
+    "email": "nina.owens@yahoo.com",
+    "phoneNumber": "+55 51 166-0978",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Silvia Anderson",
+    "email": "silvia.anderson@outlook.com",
+    "phoneNumber": "+44 20 125-4403",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Eduardo Williams",
+    "email": "eduardo.williams@hotmail.com",
+    "phoneNumber": "+49 351 456-6062",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Noah Harris",
+    "email": "noah.harris@mail.com",
+    "phoneNumber": "+55 41 036-9507",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Wendy Reynolds",
+    "email": "wendy.reynolds@icloud.com",
+    "phoneNumber": "+44 20 198-9560",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Ursula Jackson",
+    "email": "ursula.jackson@hotmail.com",
+    "phoneNumber": "+44 161 345-4463",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Jorge Marshall",
+    "email": "jorge.marshall@outlook.com",
+    "phoneNumber": "+51 1 206-8559",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Joanna Fisher",
+    "email": "joanna.fisher@hotmail.com",
+    "phoneNumber": "+57 6 424-4427",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Diana Hall",
+    "email": "diana.hall@hotmail.com",
+    "phoneNumber": "+49 211 418-9430",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Silvia Ross",
+    "email": "silvia.ross@proton.me",
+    "phoneNumber": "+51 53 863-9232",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Umberto Gonzalez",
+    "email": "umberto.gonzalez@hotmail.com",
+    "phoneNumber": "+34 91 645-2478",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "William Anderson",
+    "email": "william.anderson@gmail.com",
+    "phoneNumber": "+51 44 981-7059",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Javier Hernandez",
+    "email": "javier.hernandez@hotmail.com",
+    "phoneNumber": "+49 711 963-4822",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Hugo Turner",
+    "email": "hugo.turner@yahoo.com",
+    "phoneNumber": "+51 54 172-9610",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Ulric Green",
+    "email": "ulric.green@gmail.com",
+    "phoneNumber": "+34 94 541-5207",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Paul Alexander",
+    "email": "paul.alexander@proton.me",
+    "phoneNumber": "+49 30 819-5673",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Rachel Adams",
+    "email": "rachel.adams@gmail.com",
+    "phoneNumber": "+1 713 837-3171",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Tomas Hill",
+    "email": "tomas.hill@outlook.com",
+    "phoneNumber": "+54 351 525-6310",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Xander Graham",
+    "email": "xander.graham@proton.me",
+    "phoneNumber": "+52 449 968-0369",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Rosa Harrison",
+    "email": "rosa.harrison@proton.me",
+    "phoneNumber": "+1 800 269-2382",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Laura Torres",
+    "email": "laura.torres@yahoo.com",
+    "phoneNumber": "+52 664 923-3337",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Ophelia Collins",
+    "email": "ophelia.collins@mail.com",
+    "phoneNumber": "+51 53 402-0248",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Ursula Morris",
+    "email": "ursula.morris@icloud.com",
+    "phoneNumber": "+44 118 796-3835",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Stefan Bailey",
+    "email": "stefan.bailey@gmail.com",
+    "phoneNumber": "+57 8 674-0974",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Ophelia Fisher",
+    "email": "ophelia.fisher@hotmail.com",
+    "phoneNumber": "+56 43 730-3208",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Umberto Bryant",
+    "email": "umberto.bryant@gmail.com",
+    "phoneNumber": "+57 8 164-4757",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Fatima Cruz",
+    "email": "fatima.cruz@yahoo.com",
+    "phoneNumber": "+52 442 086-5205",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Olivia Diaz",
+    "email": "olivia.diaz@icloud.com",
+    "phoneNumber": "+56 34 528-7973",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Ximena Reynolds",
+    "email": "ximena.reynolds@outlook.com",
+    "phoneNumber": "+34 94 653-2299",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Klaus Robinson",
+    "email": "klaus.robinson@gmail.com",
+    "phoneNumber": "+44 121 634-5389",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Umberto Robinson",
+    "email": "umberto.robinson@outlook.com",
+    "phoneNumber": "+56 45 616-9956",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Octavio Robinson",
+    "email": "octavio.robinson@mail.com",
+    "phoneNumber": "+44 131 592-5041",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Fatima Roberts",
+    "email": "fatima.roberts@proton.me",
+    "phoneNumber": "+55 41 123-5332",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Rafael Howard",
+    "email": "rafael.howard@icloud.com",
+    "phoneNumber": "+1 713 614-7298",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Hector Cox",
+    "email": "hector.cox@proton.me",
+    "phoneNumber": "+54 11 303-6000",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Tina Foster",
+    "email": "tina.foster@gmail.com",
+    "phoneNumber": "+56 32 914-0933",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Tamara Griffin",
+    "email": "tamara.griffin@outlook.com",
+    "phoneNumber": "+1 800 108-2010",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Benjamin Fisher",
+    "email": "benjamin.fisher@outlook.com",
+    "phoneNumber": "+57 5 112-3479",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Tamara Griffin",
+    "email": "tamara.griffin@gmail.com",
+    "phoneNumber": "+49 89 332-6056",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Diana Long",
+    "email": "diana.long@mail.com",
+    "phoneNumber": "+54 221 507-7732",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Helena Jackson",
+    "email": "helena.jackson@yahoo.com",
+    "phoneNumber": "+44 116 788-2782",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Kevin Cook",
+    "email": "kevin.cook@icloud.com",
+    "phoneNumber": "+1 310 095-8636",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Quentin Edwards",
+    "email": "quentin.edwards@mail.com",
+    "phoneNumber": "+51 44 538-4152",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Silvia Watson",
+    "email": "silvia.watson@gmail.com",
+    "phoneNumber": "+52 998 733-2930",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Noah Mcdonald",
+    "email": "noah.mcdonald@hotmail.com",
+    "phoneNumber": "+49 89 074-9735",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Sebastian Campbell",
+    "email": "sebastian.campbell@mail.com",
+    "phoneNumber": "+54 351 295-1871",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Wendy Thomas",
+    "email": "wendy.thomas@outlook.com",
+    "phoneNumber": "+51 43 478-0322",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Tina Hayes",
+    "email": "tina.hayes@outlook.com",
+    "phoneNumber": "+54 351 706-1928",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Henry Hamilton",
+    "email": "henry.hamilton@icloud.com",
+    "phoneNumber": "+55 71 805-3823",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Valeria Cook",
+    "email": "valeria.cook@icloud.com",
+    "phoneNumber": "+51 53 965-8449",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Nina Moore",
+    "email": "nina.moore@outlook.com",
+    "phoneNumber": "+54 11 873-0415",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Helena Rogers",
+    "email": "helena.rogers@icloud.com",
+    "phoneNumber": "+44 141 706-2317",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Walter Thompson",
+    "email": "walter.thompson@hotmail.com",
+    "phoneNumber": "+51 53 696-2523",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Bianca Lopez",
+    "email": "bianca.lopez@gmail.com",
+    "phoneNumber": "+49 511 942-8860",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Daniel Edwards",
+    "email": "daniel.edwards@outlook.com",
+    "phoneNumber": "+34 91 817-0469",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Uma Washington",
+    "email": "uma.washington@hotmail.com",
+    "phoneNumber": "+52 449 532-2538",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Sofia Clark",
+    "email": "sofia.clark@proton.me",
+    "phoneNumber": "+57 5 226-5897",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Pamela Cook",
+    "email": "pamela.cook@icloud.com",
+    "phoneNumber": "+49 40 026-1309",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Quentin Martinez",
+    "email": "quentin.martinez@gmail.com",
+    "phoneNumber": "+52 55 553-5532",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Xenia Lopez",
+    "email": "xenia.lopez@proton.me",
+    "phoneNumber": "+55 91 670-5962",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Alejandro Russell",
+    "email": "alejandro.russell@hotmail.com",
+    "phoneNumber": "+57 4 813-7851",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Octavio Freeman",
+    "email": "octavio.freeman@hotmail.com",
+    "phoneNumber": "+57 5 080-1223",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Grace Hayes",
+    "email": "grace.hayes@hotmail.com",
+    "phoneNumber": "+52 664 052-2777",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Stefan Taylor",
+    "email": "stefan.taylor@outlook.com",
+    "phoneNumber": "+56 32 379-0001",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Lorenzo Henderson",
+    "email": "lorenzo.henderson@hotmail.com",
+    "phoneNumber": "+57 2 405-0716",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Yolanda Bennett",
+    "email": "yolanda.bennett@proton.me",
+    "phoneNumber": "+54 261 986-1940",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Cristian Garcia",
+    "email": "cristian.garcia@yahoo.com",
+    "phoneNumber": "+34 92 806-3826",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Leonardo Wright",
+    "email": "leonardo.wright@gmail.com",
+    "phoneNumber": "+34 98 766-4778",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Isabel Garcia",
+    "email": "isabel.garcia@gmail.com",
+    "phoneNumber": "+54 379 531-5849",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Ximena Campbell",
+    "email": "ximena.campbell@icloud.com",
+    "phoneNumber": "+49 711 461-6938",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Ricardo Jenkins",
+    "email": "ricardo.jenkins@proton.me",
+    "phoneNumber": "+52 477 697-2087",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Rafael Hall",
+    "email": "rafael.hall@yahoo.com",
+    "phoneNumber": "+51 46 772-6188",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Diana Wilson",
+    "email": "diana.wilson@proton.me",
+    "phoneNumber": "+51 54 287-1749",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Zachary West",
+    "email": "zachary.west@yahoo.com",
+    "phoneNumber": "+56 41 936-3651",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Oscar Wright",
+    "email": "oscar.wright@hotmail.com",
+    "phoneNumber": "+34 97 303-4857",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Julia Freeman",
+    "email": "julia.freeman@proton.me",
+    "phoneNumber": "+56 42 959-5513",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Klaus Morris",
+    "email": "klaus.morris@gmail.com",
+    "phoneNumber": "+1 900 049-3565",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Lucia Sanders",
+    "email": "lucia.sanders@gmail.com",
+    "phoneNumber": "+52 55 135-3864",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Yara Cook",
+    "email": "yara.cook@icloud.com",
+    "phoneNumber": "+57 7 020-9281",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Yasmin Peterson",
+    "email": "yasmin.peterson@gmail.com",
+    "phoneNumber": "+54 11 409-7725",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Vanessa Price",
+    "email": "vanessa.price@outlook.com",
+    "phoneNumber": "+1 512 816-3084",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Oscar Martin",
+    "email": "oscar.martin@outlook.com",
+    "phoneNumber": "+49 341 227-6592",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Xenia Martinez",
+    "email": "xenia.martinez@mail.com",
+    "phoneNumber": "+52 614 527-4287",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Grace Cooper",
+    "email": "grace.cooper@hotmail.com",
+    "phoneNumber": "+49 341 008-2874",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Ingrid Cruz",
+    "email": "ingrid.cruz@outlook.com",
+    "phoneNumber": "+54 221 017-4491",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Ricardo Walker",
+    "email": "ricardo.walker@gmail.com",
+    "phoneNumber": "+55 91 717-1202",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Katelyn West",
+    "email": "katelyn.west@hotmail.com",
+    "phoneNumber": "+54 388 744-0385",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Gonzalo Patterson",
+    "email": "gonzalo.patterson@hotmail.com",
+    "phoneNumber": "+54 11 217-8321",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Elena Evans",
+    "email": "elena.evans@mail.com",
+    "phoneNumber": "+55 61 504-3602",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Ingrid Bailey",
+    "email": "ingrid.bailey@hotmail.com",
+    "phoneNumber": "+54 236 864-1828",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Teresa Diaz",
+    "email": "teresa.diaz@icloud.com",
+    "phoneNumber": "+51 1 718-7234",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Zoe Wood",
+    "email": "zoe.wood@yahoo.com",
+    "phoneNumber": "+51 42 023-6399",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Joanna Anderson",
+    "email": "joanna.anderson@icloud.com",
+    "phoneNumber": "+56 41 280-4093",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Kevin Washington",
+    "email": "kevin.washington@yahoo.com",
+    "phoneNumber": "+44 116 747-3235",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Isabel Barnes",
+    "email": "isabel.barnes@gmail.com",
+    "phoneNumber": "+1 800 966-4434",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Klaus Garcia",
+    "email": "klaus.garcia@hotmail.com",
+    "phoneNumber": "+54 381 939-5515",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Stefan Green",
+    "email": "stefan.green@mail.com",
+    "phoneNumber": "+44 118 239-7258",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Chloe Morgan",
+    "email": "chloe.morgan@outlook.com",
+    "phoneNumber": "+51 53 323-1252",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Iris Miller",
+    "email": "iris.miller@icloud.com",
+    "phoneNumber": "+57 2 133-1621",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Joanna Jackson",
+    "email": "joanna.jackson@hotmail.com",
+    "phoneNumber": "+52 442 441-5365",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Kristina Clark",
+    "email": "kristina.clark@hotmail.com",
+    "phoneNumber": "+55 21 260-2325",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Aaron Butler",
+    "email": "aaron.butler@outlook.com",
+    "phoneNumber": "+34 95 401-3344",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Cesar Powell",
+    "email": "cesar.powell@mail.com",
+    "phoneNumber": "+55 51 304-1849",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Alejandro Reynolds",
+    "email": "alejandro.reynolds@proton.me",
+    "phoneNumber": "+52 81 527-9076",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Fiona Perry",
+    "email": "fiona.perry@yahoo.com",
+    "phoneNumber": "+34 924 145-5034",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Pamela Myers",
+    "email": "pamela.myers@mail.com",
+    "phoneNumber": "+57 604 403-9993",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Ricardo Butler",
+    "email": "ricardo.butler@icloud.com",
+    "phoneNumber": "+54 261 942-6464",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Kristina Hall",
+    "email": "kristina.hall@mail.com",
+    "phoneNumber": "+56 34 690-7930",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Beatriz Sullivan",
+    "email": "beatriz.sullivan@outlook.com",
+    "phoneNumber": "+56 32 876-7133",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Aaron Gomez",
+    "email": "aaron.gomez@proton.me",
+    "phoneNumber": "+44 161 800-7609",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Thomas Johnson",
+    "email": "thomas.johnson@mail.com",
+    "phoneNumber": "+44 113 689-3837",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Alejandro Edwards",
+    "email": "alejandro.edwards@yahoo.com",
+    "phoneNumber": "+1 512 795-2077",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Klaus Thomas",
+    "email": "klaus.thomas@hotmail.com",
+    "phoneNumber": "+34 92 937-8158",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Tina Mcdonald",
+    "email": "tina.mcdonald@mail.com",
+    "phoneNumber": "+34 925 734-4803",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "George Murphy",
+    "email": "george.murphy@gmail.com",
+    "phoneNumber": "+1 617 770-1638",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Amelia Thomas",
+    "email": "amelia.thomas@proton.me",
+    "phoneNumber": "+54 261 798-7167",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Octavio Cook",
+    "email": "octavio.cook@yahoo.com",
+    "phoneNumber": "+54 291 547-4074",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Teresa Graham",
+    "email": "teresa.graham@icloud.com",
+    "phoneNumber": "+44 116 225-3125",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Julia Howard",
+    "email": "julia.howard@mail.com",
+    "phoneNumber": "+44 116 594-9279",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Sebastian Stewart",
+    "email": "sebastian.stewart@gmail.com",
+    "phoneNumber": "+54 381 334-6298",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Miguel Martinez",
+    "email": "miguel.martinez@icloud.com",
+    "phoneNumber": "+51 64 554-1275",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Marco Henderson",
+    "email": "marco.henderson@icloud.com",
+    "phoneNumber": "+57 5 107-5660",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Paul Marshall",
+    "email": "paul.marshall@hotmail.com",
+    "phoneNumber": "+49 40 722-6880",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Ximena Wood",
+    "email": "ximena.wood@gmail.com",
+    "phoneNumber": "+49 421 853-8263",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Julia Anderson",
+    "email": "julia.anderson@mail.com",
+    "phoneNumber": "+52 81 772-7520",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Sam Richardson",
+    "email": "sam.richardson@hotmail.com",
+    "phoneNumber": "+1 212 235-4621",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Miguel Wright",
+    "email": "miguel.wright@proton.me",
+    "phoneNumber": "+52 449 270-7716",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Carol Bell",
+    "email": "carol.bell@mail.com",
+    "phoneNumber": "+57 1 297-1285",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Bella Martin",
+    "email": "bella.martin@proton.me",
+    "phoneNumber": "+44 118 024-3299",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Benjamin Morris",
+    "email": "benjamin.morris@yahoo.com",
+    "phoneNumber": "+56 33 330-6957",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Henry Moore",
+    "email": "henry.moore@outlook.com",
+    "phoneNumber": "+54 236 423-5462",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Ethan Barnes",
+    "email": "ethan.barnes@proton.me",
+    "phoneNumber": "+51 53 517-7398",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Ophelia Hill",
+    "email": "ophelia.hill@icloud.com",
+    "phoneNumber": "+51 42 772-0532",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Daniela Carter",
+    "email": "daniela.carter@icloud.com",
+    "phoneNumber": "+51 53 749-2600",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Hector Evans",
+    "email": "hector.evans@gmail.com",
+    "phoneNumber": "+56 43 879-2528",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Nadia Rogers",
+    "email": "nadia.rogers@icloud.com",
+    "phoneNumber": "+34 924 096-1888",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Bianca Long",
+    "email": "bianca.long@yahoo.com",
+    "phoneNumber": "+49 421 083-1291",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Alejandro Harrison",
+    "email": "alejandro.harrison@hotmail.com",
+    "phoneNumber": "+52 614 588-0265",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Hector Roberts",
+    "email": "hector.roberts@gmail.com",
+    "phoneNumber": "+51 44 487-6933",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Eduardo Bryant",
+    "email": "eduardo.bryant@mail.com",
+    "phoneNumber": "+44 131 360-6051",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Tamara Cox",
+    "email": "tamara.cox@gmail.com",
+    "phoneNumber": "+56 41 494-1877",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Wesley Jenkins",
+    "email": "wesley.jenkins@mail.com",
+    "phoneNumber": "+57 604 238-5323",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Alice Simmons",
+    "email": "alice.simmons@hotmail.com",
+    "phoneNumber": "+1 212 131-4095",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Florencia Diaz",
+    "email": "florencia.diaz@gmail.com",
+    "phoneNumber": "+51 54 467-4967",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Yasmin Jordan",
+    "email": "yasmin.jordan@proton.me",
+    "phoneNumber": "+55 41 019-5292",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Gabriela James",
+    "email": "gabriela.james@yahoo.com",
+    "phoneNumber": "+52 55 686-3127",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Renata Gonzalez",
+    "email": "renata.gonzalez@hotmail.com",
+    "phoneNumber": "+55 41 497-5968",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Quinn King",
+    "email": "quinn.king@hotmail.com",
+    "phoneNumber": "+57 6 932-5220",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Marco Reed",
+    "email": "marco.reed@icloud.com",
+    "phoneNumber": "+52 81 074-2340",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Uma Rogers",
+    "email": "uma.rogers@mail.com",
+    "phoneNumber": "+57 6 707-2946",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Carol Young",
+    "email": "carol.young@proton.me",
+    "phoneNumber": "+49 351 617-1650",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Lucia Ford",
+    "email": "lucia.ford@gmail.com",
+    "phoneNumber": "+49 211 517-9532",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Yolanda Ward",
+    "email": "yolanda.ward@outlook.com",
+    "phoneNumber": "+1 212 699-8202",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Zachary Fisher",
+    "email": "zachary.fisher@proton.me",
+    "phoneNumber": "+34 924 251-2140",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Fiona Gonzalez",
+    "email": "fiona.gonzalez@hotmail.com",
+    "phoneNumber": "+55 21 452-2917",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Ethan Martinez",
+    "email": "ethan.martinez@gmail.com",
+    "phoneNumber": "+1 702 325-1158",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Beatriz Hernandez",
+    "email": "beatriz.hernandez@mail.com",
+    "phoneNumber": "+49 221 751-0676",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Aaron Parker",
+    "email": "aaron.parker@mail.com",
+    "phoneNumber": "+49 211 982-3007",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Ivan Jackson",
+    "email": "ivan.jackson@gmail.com",
+    "phoneNumber": "+55 61 877-5165",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Ulric Mitchell",
+    "email": "ulric.mitchell@outlook.com",
+    "phoneNumber": "+51 43 384-0255",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Ivan Mitchell",
+    "email": "ivan.mitchell@hotmail.com",
+    "phoneNumber": "+34 93 085-7781",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Renata Brown",
+    "email": "renata.brown@proton.me",
+    "phoneNumber": "+44 151 379-1236",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Alejandro Wright",
+    "email": "alejandro.wright@outlook.com",
+    "phoneNumber": "+51 43 102-0170",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Zelda Patterson",
+    "email": "zelda.patterson@icloud.com",
+    "phoneNumber": "+55 51 095-8771",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Tomas Ortiz",
+    "email": "tomas.ortiz@outlook.com",
+    "phoneNumber": "+57 5 254-5132",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Isabel Morgan",
+    "email": "isabel.morgan@gmail.com",
+    "phoneNumber": "+52 614 385-6897",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Bob Bennett",
+    "email": "bob.bennett@proton.me",
+    "phoneNumber": "+54 387 644-8347",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Yasmin Davis",
+    "email": "yasmin.davis@icloud.com",
+    "phoneNumber": "+55 71 518-0117",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Rachel Richardson",
+    "email": "rachel.richardson@icloud.com",
+    "phoneNumber": "+54 379 711-4079",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Joanna Griffin",
+    "email": "joanna.griffin@icloud.com",
+    "phoneNumber": "+54 381 898-5171",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Miguel Gonzalez",
+    "email": "miguel.gonzalez@icloud.com",
+    "phoneNumber": "+57 8 548-4106",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Diana Clark",
+    "email": "diana.clark@outlook.com",
+    "phoneNumber": "+49 711 645-9536",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Beatriz Bell",
+    "email": "beatriz.bell@proton.me",
+    "phoneNumber": "+1 800 959-2480",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Wesley Phillips",
+    "email": "wesley.phillips@proton.me",
+    "phoneNumber": "+54 291 394-4877",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "William Morris",
+    "email": "william.morris@outlook.com",
+    "phoneNumber": "+1 512 592-0328",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Noah Watson",
+    "email": "noah.watson@hotmail.com",
+    "phoneNumber": "+55 19 637-9370",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Chloe Allen",
+    "email": "chloe.allen@mail.com",
+    "phoneNumber": "+1 900 712-8457",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Julia Allen",
+    "email": "julia.allen@icloud.com",
+    "phoneNumber": "+56 2 508-8287",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Rosa Thompson",
+    "email": "rosa.thompson@icloud.com",
+    "phoneNumber": "+54 387 664-4808",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Xiomara Price",
+    "email": "xiomara.price@yahoo.com",
+    "phoneNumber": "+34 95 844-2842",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Jack Miller",
+    "email": "jack.miller@mail.com",
+    "phoneNumber": "+52 55 857-8354",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Marcela Griffin",
+    "email": "marcela.griffin@hotmail.com",
+    "phoneNumber": "+51 84 145-9928",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Liam Thompson",
+    "email": "liam.thompson@hotmail.com",
+    "phoneNumber": "+57 7 826-0364",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Ingrid Graham",
+    "email": "ingrid.graham@mail.com",
+    "phoneNumber": "+49 341 034-9487",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Eva Washington",
+    "email": "eva.washington@outlook.com",
+    "phoneNumber": "+52 55 293-0013",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Frank Gray",
+    "email": "frank.gray@icloud.com",
+    "phoneNumber": "+34 95 898-3492",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Victor Howard",
+    "email": "victor.howard@mail.com",
+    "phoneNumber": "+44 131 690-2976",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Daniela Harrison",
+    "email": "daniela.harrison@yahoo.com",
+    "phoneNumber": "+44 117 712-1810",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Wesley Henderson",
+    "email": "wesley.henderson@icloud.com",
+    "phoneNumber": "+44 20 994-0134",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Tamara Hernandez",
+    "email": "tamara.hernandez@icloud.com",
+    "phoneNumber": "+51 54 854-4654",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Lorenzo Evans",
+    "email": "lorenzo.evans@mail.com",
+    "phoneNumber": "+56 45 441-0554",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Ximena Robinson",
+    "email": "ximena.robinson@outlook.com",
+    "phoneNumber": "+56 35 064-6355",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Teresa Evans",
+    "email": "teresa.evans@hotmail.com",
+    "phoneNumber": "+55 81 446-2561",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Gabriela Mitchell",
+    "email": "gabriela.mitchell@gmail.com",
+    "phoneNumber": "+56 2 641-7543",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Daphne Ellis",
+    "email": "daphne.ellis@proton.me",
+    "phoneNumber": "+54 221 291-4809",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Isabel Hill",
+    "email": "isabel.hill@mail.com",
+    "phoneNumber": "+55 41 443-8447",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Bella Cruz",
+    "email": "bella.cruz@outlook.com",
+    "phoneNumber": "+54 221 787-5985",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "William Parker",
+    "email": "william.parker@icloud.com",
+    "phoneNumber": "+44 141 431-2752",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Lorenzo Gibson",
+    "email": "lorenzo.gibson@mail.com",
+    "phoneNumber": "+44 131 484-3830",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Rosa Campbell",
+    "email": "rosa.campbell@icloud.com",
+    "phoneNumber": "+44 161 058-6367",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Helena Graham",
+    "email": "helena.graham@outlook.com",
+    "phoneNumber": "+57 2 108-4107",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Benjamin Cole",
+    "email": "benjamin.cole@hotmail.com",
+    "phoneNumber": "+51 84 107-8601",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Laura Sullivan",
+    "email": "laura.sullivan@proton.me",
+    "phoneNumber": "+49 40 927-9382",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Eduardo Gibson",
+    "email": "eduardo.gibson@mail.com",
+    "phoneNumber": "+57 7 111-9349",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Liam Reynolds",
+    "email": "liam.reynolds@proton.me",
+    "phoneNumber": "+54 236 312-5073",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Zachary Mcdonald",
+    "email": "zachary.mcdonald@gmail.com",
+    "phoneNumber": "+49 711 158-3310",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "Fatima Clark",
+    "email": "fatima.clark@proton.me",
+    "phoneNumber": "+57 2 920-3461",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Sofia Alexander",
+    "email": "sofia.alexander@yahoo.com",
+    "phoneNumber": "+34 98 450-6598",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Stefan Wilson",
+    "email": "stefan.wilson@hotmail.com",
+    "phoneNumber": "+54 381 150-7874",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Ximena Rivera",
+    "email": "ximena.rivera@proton.me",
+    "phoneNumber": "+1 201 784-7714",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Carlos James",
+    "email": "carlos.james@hotmail.com",
+    "phoneNumber": "+51 53 912-5294",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Victor Diaz",
+    "email": "victor.diaz@outlook.com",
+    "phoneNumber": "+1 415 762-9526",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Patricia Henderson",
+    "email": "patricia.henderson@yahoo.com",
+    "phoneNumber": "+54 387 579-7170",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Victor Bailey",
+    "email": "victor.bailey@outlook.com",
+    "phoneNumber": "+34 95 061-3572",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Paul Brooks",
+    "email": "paul.brooks@hotmail.com",
+    "phoneNumber": "+57 60 316-7410",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Daniela Harris",
+    "email": "daniela.harris@proton.me",
+    "phoneNumber": "+57 5 967-9127",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Zack Nelson",
+    "email": "zack.nelson@proton.me",
+    "phoneNumber": "+44 117 842-4287",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Guillermo Diaz",
+    "email": "guillermo.diaz@icloud.com",
+    "phoneNumber": "+54 388 514-1145",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "William Cooper",
+    "email": "william.cooper@outlook.com",
+    "phoneNumber": "+51 46 015-3765",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Quentin Roberts",
+    "email": "quentin.roberts@gmail.com",
+    "phoneNumber": "+52 33 054-5903",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Renata Bailey",
+    "email": "renata.bailey@outlook.com",
+    "phoneNumber": "+51 74 571-0750",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Fiona Perry",
+    "email": "fiona.perry@gmail.com",
+    "phoneNumber": "+54 351 134-7674",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Monica Sullivan",
+    "email": "monica.sullivan@icloud.com",
+    "phoneNumber": "+49 421 522-1864",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Hugo Marshall",
+    "email": "hugo.marshall@icloud.com",
+    "phoneNumber": "+54 379 366-9010",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Gabriela King",
+    "email": "gabriela.king@proton.me",
+    "phoneNumber": "+44 151 160-3634",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Carlos Hall",
+    "email": "carlos.hall@mail.com",
+    "phoneNumber": "+57 604 916-8481",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Florencia Kelly",
+    "email": "florencia.kelly@gmail.com",
+    "phoneNumber": "+54 261 500-4979",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Thomas Kelly",
+    "email": "thomas.kelly@gmail.com",
+    "phoneNumber": "+57 1 752-3378",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Gabriela Simmons",
+    "email": "gabriela.simmons@yahoo.com",
+    "phoneNumber": "+49 211 752-8946",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Sebastian Wright",
+    "email": "sebastian.wright@outlook.com",
+    "phoneNumber": "+52 81 833-6934",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "Frank Carter",
+    "email": "frank.carter@hotmail.com",
+    "phoneNumber": "+54 261 572-2673",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Helena Hayes",
+    "email": "helena.hayes@gmail.com",
+    "phoneNumber": "+49 421 573-8983",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Katelyn Ward",
+    "email": "katelyn.ward@icloud.com",
+    "phoneNumber": "+55 81 792-6350",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Leonardo Turner",
+    "email": "leonardo.turner@icloud.com",
+    "phoneNumber": "+57 5 596-9896",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Vivian Phillips",
+    "email": "vivian.phillips@yahoo.com",
+    "phoneNumber": "+55 51 077-7478",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Sam Evans",
+    "email": "sam.evans@gmail.com",
+    "phoneNumber": "+57 8 462-0888",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "Teresa Barnes",
+    "email": "teresa.barnes@outlook.com",
+    "phoneNumber": "+49 711 533-0183",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Hugo Williams",
+    "email": "hugo.williams@icloud.com",
+    "phoneNumber": "+52 998 957-3884",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Iris Coleman",
+    "email": "iris.coleman@mail.com",
+    "phoneNumber": "+54 387 759-6890",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "Nadia Jordan",
+    "email": "nadia.jordan@yahoo.com",
+    "phoneNumber": "+52 614 232-0735",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Marco Sullivan",
+    "email": "marco.sullivan@outlook.com",
+    "phoneNumber": "+51 74 143-4351",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Noah Cox",
+    "email": "noah.cox@gmail.com",
+    "phoneNumber": "+49 341 267-5177",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Julia Russell",
+    "email": "julia.russell@hotmail.com",
+    "phoneNumber": "+1 800 023-9068",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Ivan Sanders",
+    "email": "ivan.sanders@mail.com",
+    "phoneNumber": "+51 44 526-4391",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Sam Graham",
+    "email": "sam.graham@mail.com",
+    "phoneNumber": "+1 800 989-7343",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Felix Parker",
+    "email": "felix.parker@hotmail.com",
+    "phoneNumber": "+1 800 615-3530",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Ophelia Russell",
+    "email": "ophelia.russell@yahoo.com",
+    "phoneNumber": "+49 30 711-2844",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Klaus Evans",
+    "email": "klaus.evans@proton.me",
+    "phoneNumber": "+49 211 967-8898",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Noah Ellis",
+    "email": "noah.ellis@proton.me",
+    "phoneNumber": "+56 35 694-4001",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Monica Bennett",
+    "email": "monica.bennett@gmail.com",
+    "phoneNumber": "+34 95 627-6720",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "William Lewis",
+    "email": "william.lewis@outlook.com",
+    "phoneNumber": "+54 381 428-5916",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Sofia Jenkins",
+    "email": "sofia.jenkins@yahoo.com",
+    "phoneNumber": "+56 41 469-2852",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "Eva Harris",
+    "email": "eva.harris@mail.com",
+    "phoneNumber": "+34 92 531-9581",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "Eva Campbell",
+    "email": "eva.campbell@hotmail.com",
+    "phoneNumber": "+1 310 100-0065",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Frank Diaz",
+    "email": "frank.diaz@yahoo.com",
+    "phoneNumber": "+44 116 918-3921",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Sofia Miller",
+    "email": "sofia.miller@outlook.com",
+    "phoneNumber": "+56 33 171-8683",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "Umberto Cooper",
+    "email": "umberto.cooper@proton.me",
+    "phoneNumber": "+51 64 600-3089",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Ingrid Ward",
+    "email": "ingrid.ward@icloud.com",
+    "phoneNumber": "+44 161 972-7026",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Tina Bell",
+    "email": "tina.bell@hotmail.com",
+    "phoneNumber": "+57 604 639-8805",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Laura Watson",
+    "email": "laura.watson@gmail.com",
+    "phoneNumber": "+52 81 404-6610",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Zack Roberts",
+    "email": "zack.roberts@icloud.com",
+    "phoneNumber": "+1 617 236-3314",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Ricardo Morgan",
+    "email": "ricardo.morgan@hotmail.com",
+    "phoneNumber": "+52 33 104-6605",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Zachary Lewis",
+    "email": "zachary.lewis@yahoo.com",
+    "phoneNumber": "+51 1 527-2322",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Hugo Davis",
+    "email": "hugo.davis@mail.com",
+    "phoneNumber": "+56 42 847-5241",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Mia Patterson",
+    "email": "mia.patterson@hotmail.com",
+    "phoneNumber": "+51 53 020-6633",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Cristian Moore",
+    "email": "cristian.moore@mail.com",
+    "phoneNumber": "+1 713 805-6229",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "David Bell",
+    "email": "david.bell@outlook.com",
+    "phoneNumber": "+1 617 701-9366",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Javier Stewart",
+    "email": "javier.stewart@mail.com",
+    "phoneNumber": "+51 43 079-9180",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Sam Diaz",
+    "email": "sam.diaz@gmail.com",
+    "phoneNumber": "+55 31 912-3874",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Fatima Davis",
+    "email": "fatima.davis@proton.me",
+    "phoneNumber": "+54 351 559-5607",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Sofia White",
+    "email": "sofia.white@outlook.com",
+    "phoneNumber": "+56 35 161-7236",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Alejandro Miller",
+    "email": "alejandro.miller@proton.me",
+    "phoneNumber": "+56 45 578-8883",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Jorge Powell",
+    "email": "jorge.powell@proton.me",
+    "phoneNumber": "+54 236 487-2306",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Quinn Hernandez",
+    "email": "quinn.hernandez@hotmail.com",
+    "phoneNumber": "+1 310 438-7937",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Chloe Perez",
+    "email": "chloe.perez@yahoo.com",
+    "phoneNumber": "+51 44 668-0911",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Kevin Reed",
+    "email": "kevin.reed@mail.com",
+    "phoneNumber": "+56 33 379-0811",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Ethan Martinez",
+    "email": "ethan.martinez1@gmail.com",
+    "phoneNumber": "+52 664 151-7471",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "Elena Carter",
+    "email": "elena.carter@hotmail.com",
+    "phoneNumber": "+49 211 911-9431",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Bob White",
+    "email": "bob.white@gmail.com",
+    "phoneNumber": "+34 93 836-5917",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Daniel Collins",
+    "email": "daniel.collins@hotmail.com",
+    "phoneNumber": "+1 310 452-9839",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "William Green",
+    "email": "william.green@hotmail.com",
+    "phoneNumber": "+34 97 680-9780",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Ingrid Allen",
+    "email": "ingrid.allen@gmail.com",
+    "phoneNumber": "+44 141 396-6802",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Teresa Alexander",
+    "email": "teresa.alexander@hotmail.com",
+    "phoneNumber": "+56 45 892-5478",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "George Roberts",
+    "email": "george.roberts@mail.com",
+    "phoneNumber": "+49 30 323-3184",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Fiona Edwards",
+    "email": "fiona.edwards@icloud.com",
+    "phoneNumber": "+54 221 571-0389",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Nathan Alexander",
+    "email": "nathan.alexander@mail.com",
+    "phoneNumber": "+1 800 560-3737",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Ethan Torres",
+    "email": "ethan.torres@proton.me",
+    "phoneNumber": "+1 900 302-0169",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Tomas Brown",
+    "email": "tomas.brown@mail.com",
+    "phoneNumber": "+44 151 312-2352",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Quentin Baker",
+    "email": "quentin.baker@hotmail.com",
+    "phoneNumber": "+52 222 631-0851",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Rosa Lee",
+    "email": "rosa.lee@proton.me",
+    "phoneNumber": "+34 925 314-4352",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Grace Nelson",
+    "email": "grace.nelson@yahoo.com",
+    "phoneNumber": "+34 92 319-0783",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Hector Nelson",
+    "email": "hector.nelson@hotmail.com",
+    "phoneNumber": "+56 42 872-9214",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Sofia Allen",
+    "email": "sofia.allen@outlook.com",
+    "phoneNumber": "+54 261 539-0051",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Joanna Flores",
+    "email": "joanna.flores@icloud.com",
+    "phoneNumber": "+51 1 228-3474",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Yara Cooper",
+    "email": "yara.cooper@gmail.com",
+    "phoneNumber": "+1 310 998-8309",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Renata Carter",
+    "email": "renata.carter@icloud.com",
+    "phoneNumber": "+57 2 261-7239",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Renata Gibson",
+    "email": "renata.gibson@proton.me",
+    "phoneNumber": "+51 43 013-1906",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Tomas Brown",
+    "email": "tomas.brown@icloud.com",
+    "phoneNumber": "+54 11 455-9640",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Victor Allen",
+    "email": "victor.allen@icloud.com",
+    "phoneNumber": "+52 614 481-8561",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Yusuf Wallace",
+    "email": "yusuf.wallace@hotmail.com",
+    "phoneNumber": "+49 30 744-2995",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Carol Sullivan",
+    "email": "carol.sullivan@gmail.com",
+    "phoneNumber": "+57 4 773-0056",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Yolanda Harrison",
+    "email": "yolanda.harrison@gmail.com",
+    "phoneNumber": "+52 614 176-4079",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Zachary King",
+    "email": "zachary.king@proton.me",
+    "phoneNumber": "+52 33 558-0303",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "Joanna Kelly",
+    "email": "joanna.kelly@outlook.com",
+    "phoneNumber": "+44 131 658-2817",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Nicolas Baker",
+    "email": "nicolas.baker@outlook.com",
+    "phoneNumber": "+34 93 728-3255",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Ophelia Alexander",
+    "email": "ophelia.alexander@outlook.com",
+    "phoneNumber": "+52 664 862-4211",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Daniel Johnson",
+    "email": "daniel.johnson@icloud.com",
+    "phoneNumber": "+44 20 636-7827",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Olivia Cook",
+    "email": "olivia.cook@outlook.com",
+    "phoneNumber": "+44 121 614-6105",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Carlos Ross",
+    "email": "carlos.ross@icloud.com",
+    "phoneNumber": "+57 6 540-4825",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Cristian Nelson",
+    "email": "cristian.nelson@outlook.com",
+    "phoneNumber": "+56 2 657-5253",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Gonzalo Cooper",
+    "email": "gonzalo.cooper@mail.com",
+    "phoneNumber": "+44 20 684-1782",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Zack Williams",
+    "email": "zack.williams@outlook.com",
+    "phoneNumber": "+44 20 913-1643",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Quentin Perez",
+    "email": "quentin.perez@gmail.com",
+    "phoneNumber": "+1 512 134-3693",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Tomas Howard",
+    "email": "tomas.howard@outlook.com",
+    "phoneNumber": "+54 261 016-8188",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Javier Washington",
+    "email": "javier.washington@hotmail.com",
+    "phoneNumber": "+1 415 016-2835",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Rafael Perry",
+    "email": "rafael.perry@yahoo.com",
+    "phoneNumber": "+49 341 154-8796",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Eva Howard",
+    "email": "eva.howard@proton.me",
+    "phoneNumber": "+55 51 116-1563",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Rosa Gray",
+    "email": "rosa.gray@hotmail.com",
+    "phoneNumber": "+54 351 642-6924",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "Xiomara Edwards",
+    "email": "xiomara.edwards@icloud.com",
+    "phoneNumber": "+49 211 632-4055",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Cristian Woods",
+    "email": "cristian.woods@proton.me",
+    "phoneNumber": "+51 64 862-7659",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Priya Lopez",
+    "email": "priya.lopez@mail.com",
+    "phoneNumber": "+57 604 155-9571",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Grace Gomez",
+    "email": "grace.gomez@mail.com",
+    "phoneNumber": "+49 211 087-4833",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Daphne Peterson",
+    "email": "daphne.peterson@gmail.com",
+    "phoneNumber": "+55 81 218-7870",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Henry Taylor",
+    "email": "henry.taylor@outlook.com",
+    "phoneNumber": "+55 31 929-8792",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Kristina Young",
+    "email": "kristina.young@proton.me",
+    "phoneNumber": "+56 41 760-5038",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Frank Johnson",
+    "email": "frank.johnson@proton.me",
+    "phoneNumber": "+1 512 844-9148",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Gonzalo Ford",
+    "email": "gonzalo.ford@outlook.com",
+    "phoneNumber": "+52 442 789-5025",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Kevin Hernandez",
+    "email": "kevin.hernandez@gmail.com",
+    "phoneNumber": "+49 40 425-7578",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Sebastian Scott",
+    "email": "sebastian.scott@outlook.com",
+    "phoneNumber": "+52 81 620-6729",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Yusuf Gonzales",
+    "email": "yusuf.gonzales@mail.com",
+    "phoneNumber": "+54 236 372-5300",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Kevin Rivera",
+    "email": "kevin.rivera@outlook.com",
+    "phoneNumber": "+34 925 970-1297",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Gonzalo Rogers",
+    "email": "gonzalo.rogers@proton.me",
+    "phoneNumber": "+51 74 575-3373",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Aaron Clark",
+    "email": "aaron.clark@hotmail.com",
+    "phoneNumber": "+54 221 824-3238",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Bella Perez",
+    "email": "bella.perez@yahoo.com",
+    "phoneNumber": "+56 35 293-1522",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Vivian Ortiz",
+    "email": "vivian.ortiz@gmail.com",
+    "phoneNumber": "+55 61 175-2491",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "Ulric Ortiz",
+    "email": "ulric.ortiz@proton.me",
+    "phoneNumber": "+49 421 459-9864",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Bob Butler",
+    "email": "bob.butler@outlook.com",
+    "phoneNumber": "+34 96 564-1080",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Hector Morris",
+    "email": "hector.morris@gmail.com",
+    "phoneNumber": "+54 351 442-8794",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Cristian Cooper",
+    "email": "cristian.cooper@gmail.com",
+    "phoneNumber": "+57 5 043-3648",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Elena Campbell",
+    "email": "elena.campbell@icloud.com",
+    "phoneNumber": "+55 31 947-8273",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Elena Lee",
+    "email": "elena.lee@outlook.com",
+    "phoneNumber": "+34 93 528-6730",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Cristian West",
+    "email": "cristian.west@hotmail.com",
+    "phoneNumber": "+56 43 648-5382",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "Lorenzo White",
+    "email": "lorenzo.white@icloud.com",
+    "phoneNumber": "+51 54 048-5955",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Yasmin Walker",
+    "email": "yasmin.walker@proton.me",
+    "phoneNumber": "+52 998 304-4168",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Miguel Hill",
+    "email": "miguel.hill@mail.com",
+    "phoneNumber": "+55 21 484-0483",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Jack Peterson",
+    "email": "jack.peterson@icloud.com",
+    "phoneNumber": "+34 93 148-6306",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Alice Wood",
+    "email": "alice.wood@icloud.com",
+    "phoneNumber": "+56 33 601-0192",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Stefan Mcdonald",
+    "email": "stefan.mcdonald@mail.com",
+    "phoneNumber": "+56 35 651-7431",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Octavio Young",
+    "email": "octavio.young@yahoo.com",
+    "phoneNumber": "+52 449 286-0573",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Hannah Lopez",
+    "email": "hannah.lopez@hotmail.com",
+    "phoneNumber": "+34 94 201-7728",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "Jack Butler",
+    "email": "jack.butler@hotmail.com",
+    "phoneNumber": "+56 44 060-2168",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Yasmin Perez",
+    "email": "yasmin.perez@hotmail.com",
+    "phoneNumber": "+55 31 904-7364",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Frank Graham",
+    "email": "frank.graham@gmail.com",
+    "phoneNumber": "+56 44 729-2772",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Pedro Cook",
+    "email": "pedro.cook@proton.me",
+    "phoneNumber": "+34 92 477-0191",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Nadia White",
+    "email": "nadia.white@proton.me",
+    "phoneNumber": "+57 7 395-2998",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Guillermo Murphy",
+    "email": "guillermo.murphy@proton.me",
+    "phoneNumber": "+54 261 518-2040",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "Pamela Evans",
+    "email": "pamela.evans@hotmail.com",
+    "phoneNumber": "+55 61 343-2689",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Olivia Graham",
+    "email": "olivia.graham@mail.com",
+    "phoneNumber": "+54 351 602-8279",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "Nicolas Alexander",
+    "email": "nicolas.alexander@hotmail.com",
+    "phoneNumber": "+55 11 818-8947",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Vivian Anderson",
+    "email": "vivian.anderson@mail.com",
+    "phoneNumber": "+49 30 603-4857",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Yolanda Woods",
+    "email": "yolanda.woods@mail.com",
+    "phoneNumber": "+1 900 507-2085",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "Gabriela Flores",
+    "email": "gabriela.flores@gmail.com",
+    "phoneNumber": "+34 91 220-4742",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Xenia Hill",
+    "email": "xenia.hill@icloud.com",
+    "phoneNumber": "+54 387 553-9447",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Carlos Alexander",
+    "email": "carlos.alexander@mail.com",
+    "phoneNumber": "+1 310 770-6483",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Yara Gibson",
+    "email": "yara.gibson@gmail.com",
+    "phoneNumber": "+54 221 477-0745",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Zoe Taylor",
+    "email": "zoe.taylor@icloud.com",
+    "phoneNumber": "+44 131 848-3923",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Hannah Cruz",
+    "email": "hannah.cruz@yahoo.com",
+    "phoneNumber": "+49 351 411-3372",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Miguel Brown",
+    "email": "miguel.brown@icloud.com",
+    "phoneNumber": "+57 6 217-7951",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "George Edwards",
+    "email": "george.edwards@proton.me",
+    "phoneNumber": "+51 42 881-9179",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Umberto Lewis",
+    "email": "umberto.lewis@gmail.com",
+    "phoneNumber": "+44 117 420-3802",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Zelda Hamilton",
+    "email": "zelda.hamilton@outlook.com",
+    "phoneNumber": "+1 201 972-8615",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Zelda Martinez",
+    "email": "zelda.martinez@yahoo.com",
+    "phoneNumber": "+34 924 039-3295",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "Nathan Allen",
+    "email": "nathan.allen@yahoo.com",
+    "phoneNumber": "+56 34 751-1651",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Zack Roberts",
+    "email": "zack.roberts@gmail.com",
+    "phoneNumber": "+57 4 787-8209",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Leonardo Reynolds",
+    "email": "leonardo.reynolds@proton.me",
+    "phoneNumber": "+57 2 502-2821",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "Alejandro Scott",
+    "email": "alejandro.scott@mail.com",
+    "phoneNumber": "+54 236 481-1387",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Iris Rogers",
+    "email": "iris.rogers@outlook.com",
+    "phoneNumber": "+51 42 676-2224",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Pamela Clark",
+    "email": "pamela.clark@mail.com",
+    "phoneNumber": "+56 35 398-9745",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "Fiona Murray",
+    "email": "fiona.murray@proton.me",
+    "phoneNumber": "+56 45 235-4961",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "Mia Gray",
+    "email": "mia.gray@hotmail.com",
+    "phoneNumber": "+1 310 163-3226",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Fatima Ramirez",
+    "email": "fatima.ramirez@gmail.com",
+    "phoneNumber": "+52 442 478-1184",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Andre Nelson",
+    "email": "andre.nelson@proton.me",
+    "phoneNumber": "+51 44 221-2147",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Wesley Torres",
+    "email": "wesley.torres@proton.me",
+    "phoneNumber": "+54 236 045-5371",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Victor Gray",
+    "email": "victor.gray@icloud.com",
+    "phoneNumber": "+55 61 070-5073",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Victor Young",
+    "email": "victor.young@icloud.com",
+    "phoneNumber": "+52 33 261-4113",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Lucia Flores",
+    "email": "lucia.flores@gmail.com",
+    "phoneNumber": "+49 351 864-3846",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "Ivan Henderson",
+    "email": "ivan.henderson@gmail.com",
+    "phoneNumber": "+55 51 528-8455",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Julia Barnes",
+    "email": "julia.barnes@outlook.com",
+    "phoneNumber": "+55 41 676-1792",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Benjamin Ross",
+    "email": "benjamin.ross@yahoo.com",
+    "phoneNumber": "+44 113 282-3504",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Olivia Parker",
+    "email": "olivia.parker@yahoo.com",
+    "phoneNumber": "+49 351 751-9861",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Priya Washington",
+    "email": "priya.washington@gmail.com",
+    "phoneNumber": "+51 64 992-5963",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "Ingrid Cox",
+    "email": "ingrid.cox@hotmail.com",
+    "phoneNumber": "+55 31 854-0568",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Cristian Williams",
+    "email": "cristian.williams@yahoo.com",
+    "phoneNumber": "+34 96 199-8256",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "Fiona Kelly",
+    "email": "fiona.kelly@yahoo.com",
+    "phoneNumber": "+57 5 065-4140",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Yolanda Davis",
+    "email": "yolanda.davis@hotmail.com",
+    "phoneNumber": "+55 21 342-0486",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Yasmin Turner",
+    "email": "yasmin.turner@outlook.com",
+    "phoneNumber": "+51 54 874-0301",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Aaron Ward",
+    "email": "aaron.ward@hotmail.com",
+    "phoneNumber": "+54 221 854-9935",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "Hector Griffin",
+    "email": "hector.griffin@outlook.com",
+    "phoneNumber": "+56 44 480-9026",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Karen Woods",
+    "email": "karen.woods@gmail.com",
+    "phoneNumber": "+51 46 108-0583",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Bianca Williams",
+    "email": "bianca.williams@mail.com",
+    "phoneNumber": "+52 614 349-7117",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Ricardo Parker",
+    "email": "ricardo.parker@outlook.com",
+    "phoneNumber": "+1 702 710-3612",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Carlos Butler",
+    "email": "carlos.butler@icloud.com",
+    "phoneNumber": "+51 53 005-6435",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "Paul Wallace",
+    "email": "paul.wallace@hotmail.com",
+    "phoneNumber": "+51 53 146-2077",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Stefan Martin",
+    "email": "stefan.martin@icloud.com",
+    "phoneNumber": "+56 2 936-5338",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "Daniel Stewart",
+    "email": "daniel.stewart@gmail.com",
+    "phoneNumber": "+52 614 047-9007",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Frank Torres",
+    "email": "frank.torres@proton.me",
+    "phoneNumber": "+34 93 988-7705",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "Felix Torres",
+    "email": "felix.torres@yahoo.com",
+    "phoneNumber": "+49 711 797-7301",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Diana Murphy",
+    "email": "diana.murphy@mail.com",
+    "phoneNumber": "+49 511 137-7917",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Miguel Graham",
+    "email": "miguel.graham@outlook.com",
+    "phoneNumber": "+52 614 599-4550",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "Klaus Marshall",
+    "email": "klaus.marshall@gmail.com",
+    "phoneNumber": "+1 800 484-8359",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "Eduardo Taylor",
+    "email": "eduardo.taylor@icloud.com",
+    "phoneNumber": "+57 604 011-8271",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Fiona Jackson",
+    "email": "fiona.jackson@mail.com",
+    "phoneNumber": "+52 664 946-3946",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Bella Hill",
+    "email": "bella.hill@hotmail.com",
+    "phoneNumber": "+44 151 201-7928",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Uma Ellis",
+    "email": "uma.ellis@proton.me",
+    "phoneNumber": "+49 351 763-9940",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "Sebastian Price",
+    "email": "sebastian.price@yahoo.com",
+    "phoneNumber": "+34 925 776-0416",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Henry Cruz",
+    "email": "henry.cruz@gmail.com",
+    "phoneNumber": "+56 35 823-1468",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Valeria Jackson",
+    "email": "valeria.jackson@proton.me",
+    "phoneNumber": "+52 33 535-7312",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Klaus Cox",
+    "email": "klaus.cox@gmail.com",
+    "phoneNumber": "+57 60 208-2089",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "Sebastian Rogers",
+    "email": "sebastian.rogers@proton.me",
+    "phoneNumber": "+55 81 546-8397",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Silvia Marshall",
+    "email": "silvia.marshall@gmail.com",
+    "phoneNumber": "+55 81 431-1244",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Thomas Sanchez",
+    "email": "thomas.sanchez@yahoo.com",
+    "phoneNumber": "+34 94 404-7504",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Sofia Hayes",
+    "email": "sofia.hayes@icloud.com",
+    "phoneNumber": "+52 81 063-9888",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "Helena Perez",
+    "email": "helena.perez@mail.com",
+    "phoneNumber": "+34 96 266-3960",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Marcela Scott",
+    "email": "marcela.scott@hotmail.com",
+    "phoneNumber": "+1 800 123-6212",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Ophelia Ortiz",
+    "email": "ophelia.ortiz@proton.me",
+    "phoneNumber": "+49 221 270-6493",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Kevin Howard",
+    "email": "kevin.howard@mail.com",
+    "phoneNumber": "+54 236 729-5525",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "Carol Roberts",
+    "email": "carol.roberts@hotmail.com",
+    "phoneNumber": "+55 81 779-4673",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 440,
+    "name": "Patricia Morris",
+    "email": "patricia.morris@icloud.com",
+    "phoneNumber": "+57 7 890-7459",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 441,
+    "name": "Noah Davis",
+    "email": "noah.davis@gmail.com",
+    "phoneNumber": "+54 291 432-3975",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Miguel Graham",
+    "email": "miguel.graham@proton.me",
+    "phoneNumber": "+1 800 949-1021",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Nadia Martinez",
+    "email": "nadia.martinez@icloud.com",
+    "phoneNumber": "+49 351 651-4084",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Zoe Mcdonald",
+    "email": "zoe.mcdonald@gmail.com",
+    "phoneNumber": "+54 11 099-4119",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Vivian Gray",
+    "email": "vivian.gray@hotmail.com",
+    "phoneNumber": "+57 7 691-3618",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 446,
+    "name": "Leonardo Bell",
+    "email": "leonardo.bell@mail.com",
+    "phoneNumber": "+52 55 565-7246",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 447,
+    "name": "Jorge Phillips",
+    "email": "jorge.phillips@outlook.com",
+    "phoneNumber": "+57 60 501-0734",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Andre Harris",
+    "email": "andre.harris@yahoo.com",
+    "phoneNumber": "+1 900 988-3524",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Bella Cook",
+    "email": "bella.cook@outlook.com",
+    "phoneNumber": "+54 387 780-9403",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 450,
+    "name": "Tina Coleman",
+    "email": "tina.coleman@outlook.com",
+    "phoneNumber": "+56 2 269-0340",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 451,
+    "name": "Lorenzo Taylor",
+    "email": "lorenzo.taylor@proton.me",
+    "phoneNumber": "+52 998 568-9742",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Noah Rogers",
+    "email": "noah.rogers@icloud.com",
+    "phoneNumber": "+49 89 323-3296",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Bella Taylor",
+    "email": "bella.taylor@mail.com",
+    "phoneNumber": "+44 113 518-5804",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Wesley Gonzalez",
+    "email": "wesley.gonzalez@hotmail.com",
+    "phoneNumber": "+57 8 400-3355",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Daniela Gonzalez",
+    "email": "daniela.gonzalez@gmail.com",
+    "phoneNumber": "+49 221 295-8460",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 456,
+    "name": "Iris Gonzalez",
+    "email": "iris.gonzalez@proton.me",
+    "phoneNumber": "+1 201 414-8502",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Tomas Morris",
+    "email": "tomas.morris@yahoo.com",
+    "phoneNumber": "+56 32 035-8418",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Emilio Reed",
+    "email": "emilio.reed@gmail.com",
+    "phoneNumber": "+34 95 523-4193",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Beatriz Howard",
+    "email": "beatriz.howard@gmail.com",
+    "phoneNumber": "+1 212 021-1552",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Monica Sullivan",
+    "email": "monica.sullivan@proton.me",
+    "phoneNumber": "+1 900 195-6470",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "Isabel Hayes",
+    "email": "isabel.hayes@icloud.com",
+    "phoneNumber": "+54 11 153-8370",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 462,
+    "name": "Leonardo Harris",
+    "email": "leonardo.harris@hotmail.com",
+    "phoneNumber": "+49 221 118-8742",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 463,
+    "name": "Alice Young",
+    "email": "alice.young@icloud.com",
+    "phoneNumber": "+57 4 518-8667",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 464,
+    "name": "Marco Lee",
+    "email": "marco.lee@yahoo.com",
+    "phoneNumber": "+34 93 703-5930",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 465,
+    "name": "Fiona Graham",
+    "email": "fiona.graham@yahoo.com",
+    "phoneNumber": "+44 118 603-9996",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 466,
+    "name": "Sofia Simmons",
+    "email": "sofia.simmons@hotmail.com",
+    "phoneNumber": "+57 6 726-4700",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 467,
+    "name": "Yolanda Jordan",
+    "email": "yolanda.jordan@yahoo.com",
+    "phoneNumber": "+55 11 108-5152",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "Daphne Gray",
+    "email": "daphne.gray@hotmail.com",
+    "phoneNumber": "+49 711 292-4614",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 469,
+    "name": "Zelda Price",
+    "email": "zelda.price@outlook.com",
+    "phoneNumber": "+1 512 709-4716",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 470,
+    "name": "Marcela Reed",
+    "email": "marcela.reed@yahoo.com",
+    "phoneNumber": "+57 5 265-7021",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 471,
+    "name": "Chloe Adams",
+    "email": "chloe.adams@icloud.com",
+    "phoneNumber": "+52 442 418-2082",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 472,
+    "name": "Rachel Roberts",
+    "email": "rachel.roberts@gmail.com",
+    "phoneNumber": "+52 477 486-6354",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 473,
+    "name": "Lucia Taylor",
+    "email": "lucia.taylor@proton.me",
+    "phoneNumber": "+34 91 256-8461",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 474,
+    "name": "Victor Flores",
+    "email": "victor.flores@yahoo.com",
+    "phoneNumber": "+55 61 604-2075",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 475,
+    "name": "Laura Wright",
+    "email": "laura.wright@mail.com",
+    "phoneNumber": "+55 11 349-4242",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 476,
+    "name": "Liam Campbell",
+    "email": "liam.campbell@proton.me",
+    "phoneNumber": "+1 212 727-1304",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Guillermo Gibson",
+    "email": "guillermo.gibson@icloud.com",
+    "phoneNumber": "+34 96 674-8388",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Marcela Gibson",
+    "email": "marcela.gibson@proton.me",
+    "phoneNumber": "+55 81 301-8425",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Kevin Young",
+    "email": "kevin.young@mail.com",
+    "phoneNumber": "+56 42 842-8707",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "Karen Woods",
+    "email": "karen.woods@outlook.com",
+    "phoneNumber": "+34 94 868-4116",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Karen Wright",
+    "email": "karen.wright@mail.com",
+    "phoneNumber": "+51 43 103-6009",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Kristina Coleman",
+    "email": "kristina.coleman@mail.com",
+    "phoneNumber": "+1 702 229-0458",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Sofia Mcdonald",
+    "email": "sofia.mcdonald@yahoo.com",
+    "phoneNumber": "+51 1 379-4367",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Fiona Cruz",
+    "email": "fiona.cruz@icloud.com",
+    "phoneNumber": "+44 20 625-9427",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "Vanessa Sullivan",
+    "email": "vanessa.sullivan@outlook.com",
+    "phoneNumber": "+49 351 161-1049",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "William Cook",
+    "email": "william.cook@icloud.com",
+    "phoneNumber": "+56 32 031-7594",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Oscar Jenkins",
+    "email": "oscar.jenkins@outlook.com",
+    "phoneNumber": "+52 55 079-8641",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Rachel Morgan",
+    "email": "rachel.morgan@hotmail.com",
+    "phoneNumber": "+44 20 427-3602",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Liam Powell",
+    "email": "liam.powell@proton.me",
+    "phoneNumber": "+44 121 689-3659",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Marco Baker",
+    "email": "marco.baker@yahoo.com",
+    "phoneNumber": "+56 32 130-9770",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Mia Lewis",
+    "email": "mia.lewis@proton.me",
+    "phoneNumber": "+44 116 288-4108",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Priya Robinson",
+    "email": "priya.robinson@outlook.com",
+    "phoneNumber": "+51 1 389-9337",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "Ignacio Gray",
+    "email": "ignacio.gray@outlook.com",
+    "phoneNumber": "+55 41 931-9660",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "Ulric Jackson",
+    "email": "ulric.jackson@proton.me",
+    "phoneNumber": "+1 415 124-6213",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "Olivia Perez",
+    "email": "olivia.perez@outlook.com",
+    "phoneNumber": "+54 381 225-1463",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "Gabriela Wilson",
+    "email": "gabriela.wilson@gmail.com",
+    "phoneNumber": "+55 61 760-0096",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "Wendy Sullivan",
+    "email": "wendy.sullivan@gmail.com",
+    "phoneNumber": "+1 201 911-7836",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Lorenzo Rogers",
+    "email": "lorenzo.rogers@hotmail.com",
+    "phoneNumber": "+34 92 537-5360",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Xiomara Sullivan",
+    "email": "xiomara.sullivan@icloud.com",
+    "phoneNumber": "+34 91 207-6183",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "Ivan Rivera",
+    "email": "ivan.rivera@outlook.com",
+    "phoneNumber": "+54 379 623-9888",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Renata Hughes",
+    "email": "renata.hughes@mail.com",
+    "phoneNumber": "+34 925 238-1931",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Ricardo Jenkins",
+    "email": "ricardo.jenkins1@proton.me",
+    "phoneNumber": "+54 11 753-8238",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "Rosa Rogers",
+    "email": "rosa.rogers@yahoo.com",
+    "phoneNumber": "+44 116 732-2715",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Fiona Hall",
+    "email": "fiona.hall@icloud.com",
+    "phoneNumber": "+1 900 386-8952",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Pedro Cox",
+    "email": "pedro.cox@icloud.com",
+    "phoneNumber": "+49 351 284-6731",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 506,
+    "name": "Monica Ortiz",
+    "email": "monica.ortiz@outlook.com",
+    "phoneNumber": "+51 43 385-8127",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Karen Anderson",
+    "email": "karen.anderson@proton.me",
+    "phoneNumber": "+55 11 392-2352",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 508,
+    "name": "Andre Young",
+    "email": "andre.young@hotmail.com",
+    "phoneNumber": "+34 94 796-7752",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 509,
+    "name": "Thomas Coleman",
+    "email": "thomas.coleman@proton.me",
+    "phoneNumber": "+34 98 136-9350",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Javier Wilson",
+    "email": "javier.wilson@gmail.com",
+    "phoneNumber": "+57 4 490-8081",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 511,
+    "name": "Florencia Graham",
+    "email": "florencia.graham@mail.com",
+    "phoneNumber": "+1 900 804-5485",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Alejandro Scott",
+    "email": "alejandro.scott@gmail.com",
+    "phoneNumber": "+34 98 324-6439",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 513,
+    "name": "Yara Turner",
+    "email": "yara.turner@hotmail.com",
+    "phoneNumber": "+57 8 647-2076",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 514,
+    "name": "Daniel Butler",
+    "email": "daniel.butler@gmail.com",
+    "phoneNumber": "+55 51 315-2693",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 515,
+    "name": "Leonardo Stewart",
+    "email": "leonardo.stewart@gmail.com",
+    "phoneNumber": "+57 7 900-7994",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 516,
+    "name": "Paul Murphy",
+    "email": "paul.murphy@outlook.com",
+    "phoneNumber": "+51 44 008-2493",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 517,
+    "name": "Patricia Allen",
+    "email": "patricia.allen@gmail.com",
+    "phoneNumber": "+44 161 881-0457",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 518,
+    "name": "Felix Bennett",
+    "email": "felix.bennett@yahoo.com",
+    "phoneNumber": "+52 81 356-5385",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 519,
+    "name": "Pedro Gomez",
+    "email": "pedro.gomez@yahoo.com",
+    "phoneNumber": "+51 64 067-5618",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 520,
+    "name": "Umberto Mitchell",
+    "email": "umberto.mitchell@hotmail.com",
+    "phoneNumber": "+57 6 613-1242",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 521,
+    "name": "Hannah Barnes",
+    "email": "hannah.barnes@mail.com",
+    "phoneNumber": "+52 477 751-8887",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 522,
+    "name": "Ethan Diaz",
+    "email": "ethan.diaz@mail.com",
+    "phoneNumber": "+57 5 877-3584",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Sam Graham",
+    "email": "sam.graham@hotmail.com",
+    "phoneNumber": "+52 222 311-5425",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 524,
+    "name": "Olivia Ellis",
+    "email": "olivia.ellis@icloud.com",
+    "phoneNumber": "+55 31 955-0259",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 525,
+    "name": "Nina Morris",
+    "email": "nina.morris@mail.com",
+    "phoneNumber": "+54 261 552-3759",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 526,
+    "name": "Cristian Reed",
+    "email": "cristian.reed@mail.com",
+    "phoneNumber": "+56 45 951-3858",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 527,
+    "name": "Ophelia Alexander",
+    "email": "ophelia.alexander@icloud.com",
+    "phoneNumber": "+51 44 927-9820",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 528,
+    "name": "Ingrid Coleman",
+    "email": "ingrid.coleman@icloud.com",
+    "phoneNumber": "+1 212 534-7333",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 529,
+    "name": "Zelda Ward",
+    "email": "zelda.ward@yahoo.com",
+    "phoneNumber": "+1 512 864-0302",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 530,
+    "name": "David Gonzalez",
+    "email": "david.gonzalez@icloud.com",
+    "phoneNumber": "+54 379 018-3548",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 531,
+    "name": "Rosa Turner",
+    "email": "rosa.turner@proton.me",
+    "phoneNumber": "+52 614 562-0645",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 532,
+    "name": "Monica Nelson",
+    "email": "monica.nelson@proton.me",
+    "phoneNumber": "+34 95 901-5908",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 533,
+    "name": "Priya Alexander",
+    "email": "priya.alexander@outlook.com",
+    "phoneNumber": "+54 291 911-6427",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 534,
+    "name": "Zack Long",
+    "email": "zack.long@mail.com",
+    "phoneNumber": "+55 81 612-1977",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 535,
+    "name": "Zack Henderson",
+    "email": "zack.henderson@proton.me",
+    "phoneNumber": "+34 924 991-4538",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 536,
+    "name": "Noah Clark",
+    "email": "noah.clark@gmail.com",
+    "phoneNumber": "+57 4 769-3963",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 537,
+    "name": "Amelia Graham",
+    "email": "amelia.graham@mail.com",
+    "phoneNumber": "+56 32 157-8277",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 538,
+    "name": "Tomas Sanchez",
+    "email": "tomas.sanchez@gmail.com",
+    "phoneNumber": "+55 11 861-3740",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 539,
+    "name": "Kristina Lee",
+    "email": "kristina.lee@hotmail.com",
+    "phoneNumber": "+44 141 922-4641",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 540,
+    "name": "Nicolas Long",
+    "email": "nicolas.long@gmail.com",
+    "phoneNumber": "+55 51 834-0669",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 541,
+    "name": "Cesar Griffin",
+    "email": "cesar.griffin@icloud.com",
+    "phoneNumber": "+54 261 403-0773",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 542,
+    "name": "Hugo Alexander",
+    "email": "hugo.alexander@outlook.com",
+    "phoneNumber": "+54 11 526-4199",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 543,
+    "name": "Pedro Thompson",
+    "email": "pedro.thompson@gmail.com",
+    "phoneNumber": "+52 81 475-7660",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 544,
+    "name": "Silvia Barnes",
+    "email": "silvia.barnes@hotmail.com",
+    "phoneNumber": "+54 291 226-1901",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 545,
+    "name": "Amelia Jordan",
+    "email": "amelia.jordan@outlook.com",
+    "phoneNumber": "+52 55 168-1038",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 546,
+    "name": "Victor Taylor",
+    "email": "victor.taylor@outlook.com",
+    "phoneNumber": "+44 20 313-4076",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 547,
+    "name": "Teresa Wallace",
+    "email": "teresa.wallace@hotmail.com",
+    "phoneNumber": "+44 116 025-8668",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 548,
+    "name": "Marcela Owens",
+    "email": "marcela.owens@yahoo.com",
+    "phoneNumber": "+57 1 884-4597",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 549,
+    "name": "Pamela Brooks",
+    "email": "pamela.brooks@mail.com",
+    "phoneNumber": "+52 81 817-7228",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Iris Peterson",
+    "email": "iris.peterson@mail.com",
+    "phoneNumber": "+44 20 312-9377",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 551,
+    "name": "George Foster",
+    "email": "george.foster@gmail.com",
+    "phoneNumber": "+54 11 917-1086",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 552,
+    "name": "Rosa Harrison",
+    "email": "rosa.harrison@outlook.com",
+    "phoneNumber": "+1 713 647-0272",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 553,
+    "name": "Ursula Evans",
+    "email": "ursula.evans@hotmail.com",
+    "phoneNumber": "+55 81 518-4788",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 554,
+    "name": "Lorenzo Barnes",
+    "email": "lorenzo.barnes@icloud.com",
+    "phoneNumber": "+54 381 857-8343",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 555,
+    "name": "Yasmin Edwards",
+    "email": "yasmin.edwards@outlook.com",
+    "phoneNumber": "+57 60 438-8027",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 556,
+    "name": "Henry Sullivan",
+    "email": "henry.sullivan@gmail.com",
+    "phoneNumber": "+54 379 687-0718",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 557,
+    "name": "Eva Green",
+    "email": "eva.green@icloud.com",
+    "phoneNumber": "+54 351 613-1668",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 558,
+    "name": "Quentin Patterson",
+    "email": "quentin.patterson@outlook.com",
+    "phoneNumber": "+34 98 052-1841",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 559,
+    "name": "Quinn Wood",
+    "email": "quinn.wood@mail.com",
+    "phoneNumber": "+49 89 971-2122",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 560,
+    "name": "Zelda King",
+    "email": "zelda.king@hotmail.com",
+    "phoneNumber": "+52 998 268-2311",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 561,
+    "name": "Paul Butler",
+    "email": "paul.butler@yahoo.com",
+    "phoneNumber": "+54 261 819-2555",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 562,
+    "name": "Olivia Gonzales",
+    "email": "olivia.gonzales@yahoo.com",
+    "phoneNumber": "+34 91 123-3258",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 563,
+    "name": "Jack Cole",
+    "email": "jack.cole@outlook.com",
+    "phoneNumber": "+54 381 894-1141",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 564,
+    "name": "Thomas Ellis",
+    "email": "thomas.ellis@yahoo.com",
+    "phoneNumber": "+57 1 825-8894",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 565,
+    "name": "Renata Butler",
+    "email": "renata.butler@hotmail.com",
+    "phoneNumber": "+49 351 536-6300",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 566,
+    "name": "Elena Adams",
+    "email": "elena.adams@yahoo.com",
+    "phoneNumber": "+44 117 578-2171",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 567,
+    "name": "Ignacio Rivera",
+    "email": "ignacio.rivera@outlook.com",
+    "phoneNumber": "+55 19 827-6345",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 568,
+    "name": "Hannah Long",
+    "email": "hannah.long@hotmail.com",
+    "phoneNumber": "+51 84 785-9987",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 569,
+    "name": "Carol Perez",
+    "email": "carol.perez@mail.com",
+    "phoneNumber": "+52 614 140-7517",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 570,
+    "name": "Felix Cole",
+    "email": "felix.cole@yahoo.com",
+    "phoneNumber": "+49 421 641-3002",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 571,
+    "name": "Ulric Hamilton",
+    "email": "ulric.hamilton@gmail.com",
+    "phoneNumber": "+34 91 714-0608",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 572,
+    "name": "Tina Bell",
+    "email": "tina.bell@icloud.com",
+    "phoneNumber": "+1 800 234-3344",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 573,
+    "name": "Bianca White",
+    "email": "bianca.white@gmail.com",
+    "phoneNumber": "+34 924 614-2582",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 574,
+    "name": "Hector Griffin",
+    "email": "hector.griffin@proton.me",
+    "phoneNumber": "+57 2 574-9877",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 575,
+    "name": "Hector Mitchell",
+    "email": "hector.mitchell@gmail.com",
+    "phoneNumber": "+57 4 484-8961",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 576,
+    "name": "Daniel Hayes",
+    "email": "daniel.hayes@outlook.com",
+    "phoneNumber": "+56 35 971-7037",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 577,
+    "name": "Priya Bennett",
+    "email": "priya.bennett@hotmail.com",
+    "phoneNumber": "+54 11 674-0217",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 578,
+    "name": "Sebastian Patterson",
+    "email": "sebastian.patterson@hotmail.com",
+    "phoneNumber": "+44 118 432-9844",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 579,
+    "name": "Helena Moore",
+    "email": "helena.moore@yahoo.com",
+    "phoneNumber": "+49 211 280-2816",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 580,
+    "name": "Eduardo Fisher",
+    "email": "eduardo.fisher@proton.me",
+    "phoneNumber": "+56 34 688-2731",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 581,
+    "name": "Victor Cox",
+    "email": "victor.cox@outlook.com",
+    "phoneNumber": "+57 602 469-7978",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 582,
+    "name": "Stefan Martinez",
+    "email": "stefan.martinez@mail.com",
+    "phoneNumber": "+56 35 657-3501",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 583,
+    "name": "Monica Thomas",
+    "email": "monica.thomas@hotmail.com",
+    "phoneNumber": "+51 46 678-3241",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 584,
+    "name": "Henry Thompson",
+    "email": "henry.thompson@yahoo.com",
+    "phoneNumber": "+55 61 409-6827",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL"
+    ]
+  },
+  {
+    "id": 585,
+    "name": "Joanna Lewis",
+    "email": "joanna.lewis@yahoo.com",
+    "phoneNumber": "+1 617 462-7918",
+    "subscribed": [
+      "FINANCE",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "SMS"
+    ]
+  },
+  {
+    "id": 586,
+    "name": "Laura Bennett",
+    "email": "laura.bennett@outlook.com",
+    "phoneNumber": "+49 30 551-4151",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 587,
+    "name": "Grace Barnes",
+    "email": "grace.barnes@mail.com",
+    "phoneNumber": "+55 11 346-1531",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 588,
+    "name": "Carlos Price",
+    "email": "carlos.price@mail.com",
+    "phoneNumber": "+51 64 827-1356",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 589,
+    "name": "William Reed",
+    "email": "william.reed@hotmail.com",
+    "phoneNumber": "+44 118 724-8770",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 590,
+    "name": "Carol Peterson",
+    "email": "carol.peterson@yahoo.com",
+    "phoneNumber": "+44 116 028-5907",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 591,
+    "name": "Chloe White",
+    "email": "chloe.white@proton.me",
+    "phoneNumber": "+49 30 955-5904",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  },
+  {
+    "id": 592,
+    "name": "Carlos Cook",
+    "email": "carlos.cook@mail.com",
+    "phoneNumber": "+49 341 552-0874",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 593,
+    "name": "Diana Ward",
+    "email": "diana.ward@mail.com",
+    "phoneNumber": "+56 35 063-2788",
+    "subscribed": [
+      "MOVIES"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 594,
+    "name": "Kevin Simmons",
+    "email": "kevin.simmons@mail.com",
+    "phoneNumber": "+55 11 132-6882",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 595,
+    "name": "Pedro Anderson",
+    "email": "pedro.anderson@outlook.com",
+    "phoneNumber": "+49 89 487-0192",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 596,
+    "name": "Marco Cole",
+    "email": "marco.cole@hotmail.com",
+    "phoneNumber": "+51 84 625-0238",
+    "subscribed": [
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 597,
+    "name": "Octavio Ross",
+    "email": "octavio.ross@outlook.com",
+    "phoneNumber": "+1 310 240-8940",
+    "subscribed": [
+      "FINANCE"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 598,
+    "name": "Ursula Martin",
+    "email": "ursula.martin@mail.com",
+    "phoneNumber": "+51 54 842-1890",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "PUSH_NOTIFICATION",
+      "SMS"
+    ]
+  },
+  {
+    "id": 599,
+    "name": "Cristian Howard",
+    "email": "cristian.howard@proton.me",
+    "phoneNumber": "+56 33 803-5953",
+    "subscribed": [
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "EMAIL",
+      "PUSH_NOTIFICATION"
+    ]
+  },
+  {
+    "id": 600,
+    "name": "Eva Thompson",
+    "email": "eva.thompson@yahoo.com",
+    "phoneNumber": "+57 1 925-4314",
+    "subscribed": [
+      "FINANCE",
+      "MOVIES",
+      "SPORTS"
+    ],
+    "channels": [
+      "SMS"
+    ]
+  }
+]

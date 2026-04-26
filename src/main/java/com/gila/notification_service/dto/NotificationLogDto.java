@@ -1,5 +1,7 @@
 package com.gila.notification_service.dto;
 
+import java.time.Instant;
+
 public record NotificationLogDto(
     Long        id,
     String      userName,
