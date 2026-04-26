@@ -1,6 +1,8 @@
 package com.gila.notification_service.model;
 
 import jakarta.persistence.*;
+import lombok.Getter;
+
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 
@@ -10,6 +12,7 @@ import java.time.ZoneOffset;
         @Index(name = "idx_log_message_id", columnList = "message_id"),
         @Index(name = "idx_log_user_id",    columnList = "user_id")
 })
+@Getter
 public class NotificationLog {
 
     @Id
@@ -62,15 +65,4 @@ public class NotificationLog {
         this.status      = status;
         this.errorDetail = errorDetail;
     }
-
-    public Long getId()           { return id; }
-    public Long getMessageId()    { return messageId; }
-    public Long getUserId()       { return userId; }
-    public String getUserName()   { return userName; }
-    public String getCategory()   { return category; }
-    public String getChannel()    { return channel; }
-    public String getStatus()     { return status; }
-    public String getMessageBody() { return messageBody; }
-    public String getErrorDetail() { return errorDetail; }
-    public LocalDateTime getSentAt(){ return sentAt; }
 }

@@ -6,8 +6,6 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.*;
 
-import java.time.Instant;
-
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
@@ -37,7 +35,7 @@ public class Message {
     @Column(name = "body", nullable = false, columnDefinition = "TEXT")
     private String body;
 
-    @Column(name = "idempotency_key", nullable = true, length = 100, unique = true)
+    @Column(name = "idempotency_key", length = 100, unique = true)
     private String idempotencyKey;
 
     @Column(name = "created_at", nullable = false, updatable = false)
