@@ -17,6 +17,8 @@ import java.time.ZoneOffset;
 import java.util.List;
 
 import static org.mockito.ArgumentMatchers.any;
+import static org.mockito.ArgumentMatchers.eq;
+import static org.mockito.ArgumentMatchers.isNull;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
@@ -39,9 +41,9 @@ class LogControllerTest {
     @Autowired MockMvc                   mockMvc;
     @Autowired NotificationLogRepository logRepository;
 
-    private NotificationLog buildLog(String status, String channel) {
+    private NotificationLog buildLog(String category, String channel, String status) {
         NotificationLog log = new NotificationLog(
-                1L, 1L, "Alice", "SPORTS", channel, "Goal!", status, null);
+                1L, 1L, "Alice", category, channel, "Goal!", status, null);
         try {
             var field = NotificationLog.class.getDeclaredField("sentAt");
             field.setAccessible(true);
@@ -51,9 +53,9 @@ class LogControllerTest {
     }
 
     @Test
-    void getLogs_returns200WithPagedContent() throws Exception {
-        NotificationLog entry = buildLog("SENT", "SMS");
-        when(logRepository.findAllByOrderBySentAtDesc(any()))
+    void getLogs_noFilters_returns200WithPagedContent() throws Exception {
+        NotificationLog entry = buildLog("SPORTS", "SMS", "SENT");
+        when(logRepository.findByFilters(isNull(), isNull(), any()))
                 .thenReturn(new PageImpl<>(List.of(entry)));
 
         mockMvc.perform(get("/api/logs"))
@@ -66,7 +68,7 @@ class LogControllerTest {
 
     @Test
     void getLogs_emptyPage_returns200WithEmptyContent() throws Exception {
-        when(logRepository.findAllByOrderBySentAtDesc(any()))
+        when(logRepository.findByFilters(isNull(), isNull(), any()))
                 .thenReturn(Page.empty());
 
         mockMvc.perform(get("/api/logs"))
@@ -77,7 +79,7 @@ class LogControllerTest {
 
     @Test
     void getLogs_withPaginationParams_returns200() throws Exception {
-        when(logRepository.findAllByOrderBySentAtDesc(any()))
+        when(logRepository.findByFilters(isNull(), isNull(), any()))
                 .thenReturn(Page.empty());
 
         mockMvc.perform(get("/api/logs").param("page", "0").param("size", "5"))
@@ -85,10 +87,49 @@ class LogControllerTest {
     }
 
     @Test
+    void getLogs_filterByCategory_passesCorrectParam() throws Exception {
+        NotificationLog entry = buildLog("FINANCE", "EMAIL", "SENT");
+        when(logRepository.findByFilters(eq("FINANCE"), isNull(), any()))
+                .thenReturn(new PageImpl<>(List.of(entry)));
+
+        mockMvc.perform(get("/api/logs").param("category", "FINANCE"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.content.length()").value(1))
+                .andExpect(jsonPath("$.content[0].categoryName").value("FINANCE"));
+    }
+
+    @Test
+    void getLogs_filterByChannel_passesCorrectParam() throws Exception {
+        NotificationLog entry = buildLog("SPORTS", "EMAIL", "SENT");
+        when(logRepository.findByFilters(isNull(), eq("EMAIL"), any()))
+                .thenReturn(new PageImpl<>(List.of(entry)));
+
+        mockMvc.perform(get("/api/logs").param("channel", "EMAIL"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.content.length()").value(1))
+                .andExpect(jsonPath("$.content[0].channelName").value("EMAIL"));
+    }
+
+    @Test
+    void getLogs_filterByCategoryAndChannel_passesCorrectParams() throws Exception {
+        NotificationLog entry = buildLog("FINANCE", "EMAIL", "SENT");
+        when(logRepository.findByFilters(eq("FINANCE"), eq("EMAIL"), any()))
+                .thenReturn(new PageImpl<>(List.of(entry)));
+
+        mockMvc.perform(get("/api/logs")
+                        .param("category", "FINANCE")
+                        .param("channel", "EMAIL"))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.content.length()").value(1))
+                .andExpect(jsonPath("$.content[0].categoryName").value("FINANCE"))
+                .andExpect(jsonPath("$.content[0].channelName").value("EMAIL"));
+    }
+
+    @Test
     void getLogs_multipleEntries_returnsAll() throws Exception {
-        NotificationLog sent   = buildLog("SENT",   "SMS");
-        NotificationLog failed = buildLog("FAILED",  "EMAIL");
-        when(logRepository.findAllByOrderBySentAtDesc(any()))
+        NotificationLog sent   = buildLog("SPORTS",  "SMS",   "SENT");
+        NotificationLog failed = buildLog("FINANCE",  "EMAIL", "FAILED");
+        when(logRepository.findByFilters(isNull(), isNull(), any()))
                 .thenReturn(new PageImpl<>(List.of(sent, failed)));
 
         mockMvc.perform(get("/api/logs"))

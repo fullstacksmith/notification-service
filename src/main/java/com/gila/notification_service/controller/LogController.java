@@ -10,6 +10,7 @@ import org.springframework.data.web.PageableDefault;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import static org.springframework.data.domain.Sort.Direction.DESC;
@@ -23,11 +24,12 @@ public class LogController {
 
     @GetMapping
     public ResponseEntity<Page<NotificationLogDto>> getLogs(
-            @PageableDefault(size = 20, sort = "sentAt", direction = DESC)
-            Pageable pageable
-    ) {
+            @PageableDefault(size = 20, sort = "sentAt", direction = DESC) Pageable pageable,
+            @RequestParam(required = false) String category,
+            @RequestParam(required = false) String channel) {
+
         Page<NotificationLogDto> page = logRepository
-                .findAllByOrderBySentAtDesc(pageable)
+                .findByFilters(category, channel, pageable)
                 .map(this::toDto);
 
         return ResponseEntity.ok(page);
